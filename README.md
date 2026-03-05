@@ -22,7 +22,7 @@ Una página de error 404 moderna, minimalista y de alto impacto visual, diseñad
 ## 📦 Instalación y Uso
 
 1. **Clona el repositorio:**
-   ```bash
+```bash
    git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
 
 ```
